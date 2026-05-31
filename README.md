@@ -13,7 +13,7 @@ Sou um programador, apaixonado por criar interfaces limpas, funcionais e por res
 Aqui estão as principais tecnologias que utilizo nos meus projetos e estudos:
 
 #### Backend & Core
-![Python]([https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white](https://www.python.org/))
+![Python]((https://www.python.org/))
 
 #### Ambientes & Ferramentas
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
