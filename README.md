@@ -38,5 +38,5 @@ Se quiser trocar uma ideia sobre desenvolvimento, Linux ou colaborar em algum pr
 
 ---
 <p align="center">
-  <i>"Code is poetry."</i>
+  <i>"I am because we are."</i>
 </p>
