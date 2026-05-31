@@ -17,8 +17,9 @@ Aqui estão as principais tecnologias que utilizo nos meus projetos e estudos:
 
 #### Ambientes & Ferramentas
 [![Debian](https://img.shields.io/badge/Debian-%23A81D33.svg?style=for-the-badge&logo=debian&logoColor=white)](https://www.debian.org/index.pt.html)
+[![Fedora](https://img.shields.io/badge/Fedora-%2351A2DA.svg?style=for-the-badge&logo=fedora&logoColor=white)](https://fedoraproject.org/)
+[![Arch Linux](https://img.shields.io/badge/Arch_Linux-%231793D1.svg?style=for-the-badge&logo=arch-linux&logoColor=white)](https://archlinux.org/)
 [![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
-
 ---
 
 ### 📊 Estatísticas do GitHub
