@@ -13,11 +13,11 @@ Sou um programador, apaixonado por criar interfaces limpas, funcionais e por res
 Aqui estão as principais tecnologias que utilizo nos meus projetos e estudos:
 
 #### Backend & Core
-![Python]((https://www.python.org/))
+[![Python](https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 
 #### Ambientes & Ferramentas
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+[![Debian](https://img.shields.io/badge/Debian-%23A81D33.svg?style=for-the-badge&logo=debian&logoColor=white)](https://www.debian.org/index.pt.html)
+[![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
 
 ---
 
