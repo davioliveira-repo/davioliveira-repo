@@ -1,4 +1,4 @@
-# Olá, eu sou o Davi Oliveira de Sá 👋
+# Olá, me chamo Davi Oliveira de Sá 👋
 
 Sou um programador, apaixonado por criar interfaces limpas, funcionais e por resolver problemas reais através do código. No meu dia a dia, utilizo o ecossistema Linux para otimizar meu fluxo de trabalho e desenvolvimento.
 
